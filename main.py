@@ -11,9 +11,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Replace with your bot's token
-BOT_TOKEN='7241818688:AAHdHWczbWqH87574QAhvkfWTTxaeG9KyOA'
+BOT_TOKEN='Api Token Bot'
 # Replace with your Telegram user ID
-YOUR_TELEGRAM_USER_ID = '6396424992'
+YOUR_TELEGRAM_USER_ID = ''
 
 # Dictionary to keep track of users
 user_dict = {}
